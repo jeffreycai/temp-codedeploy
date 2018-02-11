@@ -1,0 +1,5 @@
+os: linux 
+files:
+  - source: content
+    destination: /var/www/html
+
